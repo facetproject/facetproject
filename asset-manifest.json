@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.549c13a8.chunk.css",
-    "main.js": "/static/js/main.36c28303.chunk.js",
-    "main.js.map": "/static/js/main.36c28303.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.62ee9e79.js",
-    "runtime-main.js.map": "/static/js/runtime-main.62ee9e79.js.map",
-    "static/js/2.475a1cf4.chunk.js": "/static/js/2.475a1cf4.chunk.js",
-    "static/js/2.475a1cf4.chunk.js.map": "/static/js/2.475a1cf4.chunk.js.map",
-    "static/js/3.77bb93d1.chunk.js": "/static/js/3.77bb93d1.chunk.js",
-    "static/js/3.77bb93d1.chunk.js.map": "/static/js/3.77bb93d1.chunk.js.map",
+    "main.css": "static/css/main.549c13a8.chunk.css",
+    "main.js": "static/js/main.36c28303.chunk.js",
+    "main.js.map": "static/js/main.36c28303.chunk.js.map",
+    "runtime-main.js": "static/js/runtime-main.62ee9e79.js",
+    "runtime-main.js.map": "static/js/runtime-main.62ee9e79.js.map",
+    "static/js/2.475a1cf4.chunk.js": "static/js/2.475a1cf4.chunk.js",
+    "static/js/2.475a1cf4.chunk.js.map": "static/js/2.475a1cf4.chunk.js.map",
+    "static/js/3.77bb93d1.chunk.js": "static/js/3.77bb93d1.chunk.js",
+    "static/js/3.77bb93d1.chunk.js.map": "static/js/3.77bb93d1.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.549c13a8.chunk.css.map": "/static/css/main.549c13a8.chunk.css.map",
-    "static/js/2.475a1cf4.chunk.js.LICENSE.txt": "/static/js/2.475a1cf4.chunk.js.LICENSE.txt",
-    "static/media/FACET-Text.33f3c570.svg": "/static/media/FACET-Text.33f3c570.svg",
-    "static/media/FACET_Horizontal_LogoLean.b5598ca2.svg": "/static/media/FACET_Horizontal_LogoLean.b5598ca2.svg"
+    "static/css/main.549c13a8.chunk.css.map": "static/css/main.549c13a8.chunk.css.map",
+    "static/js/2.475a1cf4.chunk.js.LICENSE.txt": "static/js/2.475a1cf4.chunk.js.LICENSE.txt",
+    "static/media/FACET-Text.33f3c570.svg": "static/media/FACET-Text.33f3c570.svg",
+    "static/media/FACET_Horizontal_LogoLean.b5598ca2.svg": "static/media/FACET_Horizontal_LogoLean.b5598ca2.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.62ee9e79.js",
