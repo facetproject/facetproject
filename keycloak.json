@@ -1,0 +1,8 @@
+{
+  "realm": "FACET",
+  "auth-server-url": "http://keycloak.localtest.me:8080/auth/",
+  "ssl-required": "external",
+  "resource": "facet-client",
+  "public-client": true,
+  "confidential-port": 0
+}
